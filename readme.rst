@@ -14,6 +14,8 @@ for a given task.
 Release Information
 *******************
 
+Created by Adi Murdayani
+
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the `CodeIgniter Downloads
 <https://codeigniter.com/download>`_ page.
